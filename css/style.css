@@ -1,0 +1,43 @@
+.head{
+    color: forestgreen;
+    font-size: 5rem;
+}
+.para1{
+    font-size: 30px;
+    color: crimson;
+    background-color: yellow;
+}
+
+#para2{
+    font-size: 30px;
+    color: blue;
+    border: 1px solid green;
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    font-size: 50px;
+}
+
+.box2{
+    height: 100pt;
+    width: 100pt;
+    background-color: green;
+    font-size: 50px;
+}
+
+.box3{
+    height: 5em;
+    width: 5em;
+    background-color: red;
+    font-size: 50px;
+}
+
+.box4{
+    height: 70%;
+    width: 70%;
+    background-color: rgb(31, 228, 64);
+    font-size: 50px;
+}
